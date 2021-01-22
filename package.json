@@ -1,0 +1,9 @@
+{
+  "name": "node-jlc-pos-filter",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^5.3.2"
+  }
+}
